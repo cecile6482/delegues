@@ -1,0 +1,51 @@
+body {
+    background: #cbddd1;
+    }
+
+h1#headerNames {
+        margin-top: 10%;
+        color: rgb(41, 70, 65);
+        font-family: Georgia, serif;
+        font-size: 50px;
+        text-align: center;
+        cursor: pointer;
+        }
+
+ .button {
+        width: 150px;
+        margin: auto;
+        padding: 20px;
+        background: #7d9b76;
+        border: 3px solid #545454;
+        border-radius: 10px;
+        color: rgb(174, 202, 152);
+        font-family: Arial, sans-serif;
+        font-size: 30px;
+        font-weight: bold;
+        text-align: center;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        display: block;
+        cursor: pointer;
+        }
+
+#randomNames {
+        color: rgb(41, 70, 65);
+        font-family: Georgia, serif;
+        font-size: 50px;
+        text-align: center;
+        width: 40%;
+        margin-top: 30px;
+        margin-left: 30%;
+        border: 2px solid #545454;
+        border-radius: 20px;
+          
+}   
+
+.election {
+    width: 550px;
+    height: 550px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
